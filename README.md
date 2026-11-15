@@ -8,7 +8,7 @@ Work in progresss
 
 ## Research Questions
 
-- Whcih applicant features are most predictive of credit card approval
+- Which applicant features are most predictive of credit card approval
 
 - Does the model demonstrate any biases related to sensative attributes, such as gender, age, or ethnicity?
 

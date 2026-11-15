@@ -1,5 +1,6 @@
 # install these dependencies by running pip install -r requirements.txt
 
 pandas
-
+ipykernel
+kagglehub
 
