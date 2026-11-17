@@ -3,4 +3,4 @@
 pandas
 ipykernel
 kagglehub
-
+matplotlib
